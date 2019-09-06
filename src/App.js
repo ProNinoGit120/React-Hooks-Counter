@@ -7,7 +7,7 @@ import { CountdownWithUseInterval } from './countdownWithUseInterval'
 import { CountdownFunctional } from './countdownFunctional'
 
 class App extends Component {
-	render() { 
+	render() {
 		return (
 			<div className="App">
 				<header className="App-header">
